@@ -5,4 +5,4 @@ mas = []
 for i in range(n):
     mas.extend([a1 + i * d])
 print(f'элементы арифметической прогрессии - {mas}')
-#
+#asdasdasd
